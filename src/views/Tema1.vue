@@ -23,8 +23,8 @@
         .indicador--click(v-if="mostrarIndicador")
         figure.px-2
           img(src="@/assets/template/tema-1-2-1.png", alt="Texto que describa la imagen")
-        .row.image-cover.mx-0
-          figure.px-2
+        .row.mx-0
+          figure.px-2.image-cover
             img(src="@/assets/template/tema-1-2-2.svg", alt="Texto que describa la imagen")
           .col-12(style="margin-top: -65%").px-4
             .row.text-center
@@ -53,8 +53,8 @@
         figure.px-2(@mouseover="mostrarIndicador = false")
           .indicador--click(v-if="mostrarIndicador")
           img(src="@/assets/template/tema-1-4-1.png", alt="Texto que describa la imagen")
-        .row.image-cover.mx-0
-          figure.px-2
+        .row.mx-0
+          figure.px-2.image-cover
             img(src="@/assets/template/tema-1-4-2.svg", alt="Texto que describa la imagen")
           .col-12(style="margin-top: -65%").px-4
             .row.text-center
