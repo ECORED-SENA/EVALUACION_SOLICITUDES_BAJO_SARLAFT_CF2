@@ -14,9 +14,9 @@
     .row.mt-5.rounded-20.bg-amarillo-claro.p-5.zoom-in
       .col-6
         p.mt-5 Teniendo en cuenta lo anterior, las entidades financieras están obligadas a verificar la información suministrada por sus clientes, de igual manera sus correspondientes soportes.
-        p.mt-3 Es por ello, que este procedimientos debe estar incluido dentro del manual de procedimientos SARLAFT de la entidad.
+        p.mt-3 Es por ello, que este procedimiento debe estar incluido dentro del manual de procedimientos SARLAFT de la entidad.
         p.mt-3 Asimismo, la Superintendencia Financiera de Colombia, a través del concepto 2011013139-003 del 6 de abril de 2011, indicó que los procedimientos de conocimiento del cliente se encuentran compuestos de dos partes:
-        p.mt-3 Datos que se deben obtener para las Personas Jurídicas: 
+         
       .col-6.px-5
         figure
           img(src="@/assets/template/tema-3-1.svg", alt="Imagen descriptiva")
@@ -24,8 +24,8 @@
       table
         thead
           tr.text-center
-            th.py-3 Los componentes de inserción o THT 
-            th Los componentes de superficie o SMD 
+            th.py-3 Obtención de información 
+            th Verificación de información
         tbody
           tr
             td.p-0.position-relative 
@@ -39,8 +39,9 @@
               figure.image-cover
                 img(src="@/assets/template/tema-3-3-1.svg", alt="Texto que describa la imagen")
           tr.text-small
-            td.p-4 Son todos aquellos componentes cuyos terminales o pines atraviesan físicamente la placa de circuito impreso (Sustrato o Aislante) para ser sujetados mecánicamente a través de la soldadura blanda. 
-            td.p-4 La relacionada con la verificación “de la información contenida en el formulario y de los soportes de la misma, soportes que el potencial debe exhibir o entregar, si la entidad así lo determina”.
+            td.p-4 La relacionada con la obtención de la información "que le permita a la entidad llevar a cabo un efectivo, eficiente y oportuno conocimiento de los clientes actuales y potenciales, el cual comporta el diseño y adopción del formulario de solicitud de vinculación y su diligenciamiento por el potencial cliente" .
+            td.p-4 La relacionada con la verificación "de la información contenida en el formulario y de los soportes de la misma, soportes que el potencial debe exhibir o entregar, si la entidad así lo determina".
+    separador.mt-3
     .titulo-segundo.mt-5
       #t_3_2.h2 3.2  Importancia del manual SARLAFT dentro de los sistemas
     .row.mt-5
@@ -48,12 +49,12 @@
         figure
           img(src="@/assets/template/tema-3-4.svg", alt="Imagen descriptiva").floating
       .col-11
-        p La superintendencia Financiera de Colombia busca que todas las entidades vigiladas implementen un manual del SARLAFT, con el fin de prevenir los riesgos que pueden causar, si llegan ser utilizados para dar una apariencia de legalidad pero que son actos provenientes de actividades ilícitas o de actividades de índole terrorista, por esta razón en la siguiente gráfica se muestra la importancia de la implementación de este manual:
+        p La Superintendencia Financiera de Colombia busca que todas las entidades vigiladas implementen un manual del SARLAFT, con el fin de prevenir los riesgos que pueden causar, si llegan a ser utilizados para dar una apariencia de legalidad pero que son actos provenientes de actividades ilícitas o de actividades de índole terrorista, por esta razón en la siguiente gráfica se muestra la importancia de la implementación de este manual:
     .row.mt-5
       .col-10.offset-1.mt-5
         .titulo-sexto.color-acento-contenido
-          h5.text-small Figura 2
-          p.text-small.italic Importancia del manual SARLAFT
+          h5.text-small Figura 1
+          p.text-small Importancia del manual SARLAFT
     .row.mt-4
       .col-6.pr-4
         .row.rounded-20.borde-gris-4
@@ -68,7 +69,7 @@
             figure
               img(src="@/assets/template/tema-3-6.svg", alt="Texto que describa la imagen").py-3.w-75.margin-0-auto
           .col-9.text-center.align-self-center
-            .h4 Es el estandar de la debida diligencia 
+            .h4 Es el estándar de la debida diligencia 
             .h4 para efectos penales.
         .row.rounded-20.borde-gris-4.mt-3
           .col-3.align-self-center
@@ -83,7 +84,7 @@
               img(src="@/assets/template/tema-3-8.svg", alt="Texto que describa la imagen").py-3.w-75.margin-0-auto
           .col-9.text-center.align-self-center
             .h4 Es la piedra angular del Sistema de
-            .h4 prevención de la LA/FT
+            .h4 prevención de la LA/FT.
       .col-6.pr-4.align-self-center
         .row.rounded-20.borde-gris-4
           .col-3.align-self-center
@@ -98,14 +99,14 @@
               img(src="@/assets/template/tema-3-10.svg", alt="Texto que describa la imagen").py-3.w-75.margin-0-auto
           .col-9.text-center.align-self-center
             .h4 Establece obligaciones 
-            .h4 exigibles y sancionables
+            .h4 exigibles y sancionables.
         .row.rounded-20.borde-gris-4.mt-3
           .col-3.align-self-center
             figure
               img(src="@/assets/template/tema-3-11.svg", alt="Texto que describa la imagen").py-3.w-75.margin-0-auto
           .col-9.text-center.align-self-center
             .h4 Se documenta todo
-            .h4 para prevenir LA/FT
+            .h4 para prevenir LA/FT.
     .row.mt-5
       .col-6
         p Se deben tener en cuenta unos lineamientos esenciales en donde se recomienda la redacción del documento teniendo en cuenta los lineamientos importantes que la entidad debe tener en cuenta para la prevención y control del Lavado de Activos y Financiación del Terrorismo.
@@ -115,7 +116,7 @@
             ul.lista-ul.ml-2.pt-3
               li 
                 i.fas.fa-angle-right.acento-contenido
-                | Temas obligatorios y Normativos cuyo contenido no debe ser modificado.
+                | Temas obligatorios y normativos cuyo contenido no debe ser modificado.
               li 
                 i.fas.fa-angle-right.acento-contenido
                 | Temas obligatorios y normativos por la regulación interna, donde su contenido debe ser modificado por la entidad de acuerdo a su actividad.
@@ -125,6 +126,12 @@
       .col-6.align-self-center
         figure
           img(src="@/assets/template/tema-3-12.png", alt="Imagen descriptiva")
+    .row.mt-5
+    .col-10.offset-1.mt-5
+      .titulo-sexto.color-acento-contenido
+        h5.text-small Figura 2
+        p.text-small.italic Etapas construcción manual
+
     .row.mt-5.text-center
       .col-sm-6.col-lg-2.tarjeta-flip-tema-2.p-1.text-center
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false").box-shadow
@@ -137,7 +144,7 @@
             .tarjeta-flip__contenido.p-3.bg-verde
               .row.pt-4    
                 .h4.pt-2 ETAPA 1: 
-                p.mt-3.text-small.px-3 Definir el tipo de manual SARLAFT (por procesos, controles, areas, etc. ).
+                p.mt-3.text-small.px-3 Definir el tipo de manual SARLAFT (por procesos, controles, áreas, etc.).
       .col-sm-6.col-lg-2.tarjeta-flip-tema-2.p-1.text-center
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false").box-shadow
           .tarjeta-flip__contenedor
@@ -149,7 +156,7 @@
             .tarjeta-flip__contenido.p-3.bg-verde
               .row.pt-4    
                 .h4.pt-2 ETAPA 2: 
-                p.mt-3.text-small Determinar el contenido del manual (minimo legal, mejores practicas, etc.).
+                p.mt-3.text-small Determinar el contenido del manual (mínimo legal, mejores prácticas, etc.).
       .col-sm-6.col-lg-2.tarjeta-flip-tema-2.p-1
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false").box-shadow
           .tarjeta-flip__contenedor
@@ -173,7 +180,7 @@
             .tarjeta-flip__contenido.p-3.bg-verde
               .row.pt-4    
                 .h4.pt-2 ETAPA 4: 
-                p.mt-3.text-small Revisar la documentacion verificando si esta completa o en caso contrario solicitar lo faltante.
+                p.mt-3.text-small Revisar la documentacion verificando si está completa o en caso contrario solicitar lo faltante.
       .col-sm-6.col-lg-2.tarjeta-flip-tema-2.p-1
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false").box-shadow
           .tarjeta-flip__contenedor
@@ -234,7 +241,7 @@
             .tarjeta-flip__contenido.p-3.bg-verde
               .row.pt-4    
                 .h4.pt-2 ETAPA 9: 
-                p.mt-3.text-small Preparar la version final.
+                p.mt-3.text-small Preparar la versión final.
       .col-sm-6.col-lg-2.tarjeta-flip-tema-2.p-1
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false").box-shadow
           .tarjeta-flip__contenedor
@@ -246,7 +253,7 @@
             .tarjeta-flip__contenido.p-3.bg-verde
               .row.pt-4    
                 .h4.pt-2 ETAPA 10: 
-                p.mt-3.text-small Presentar al organo competente el manual definitivo para la aprobación.
+                p.mt-3.text-small Presentar al órgano competente el manual definitivo para la aprobación.
     figcaption.mt-3 Nota. https://www.infolaft.com/recomendaciones-para-hacer-un-buen-manual/
 
 

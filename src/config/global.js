@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Los Clientes y el SARLAFT',
+    componenteFormativo: 'Los clientes y el SARLAFT',
     descripcionCurso:
-      'La importancia de los clientes en cualquier organización y su debida atención, recalca lo fundamental hoy en día del conocimiento,  implementación e interpretación de la información enviada por ellos, sobre Sistema de administración del riesgo en lavados de activos y financiación de terrorismo, y así dar gestión a sus solicitudes de manera oportuna. <br>Por ello, es indispensable conocer los procedimientos y formatos para evaluar la funcionalidad del sistema. ',
+      'La importancia de los clientes en cualquier organización y su debida atención, recalca lo fundamental hoy en día del conocimiento,  implementación e interpretación de la información enviada por ellos, sobre el Sistema de Administración del Riesgo en Lavado de Activos y Financiación de Terrorismo, y así dar gestión a sus solicitudes de manera oportuna. <br>Por ello, es indispensable conocer los procedimientos y formatos para evaluar la funcionalidad del sistema. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -128,39 +128,39 @@ export default {
   },
   referencias: [
     {
-      referencia: 'ICETEX. (2.020). MANUAL SARLAFT ICETEX.',
+      referencia: 'ICETEX. (2020). MANUAL SARLAFT ICETEX. ',
       link:
-        'https://portal.icetex.gov.co/Portal/docs/default-source/documentos-el-icetex/biblioteca/manuales-de-la-entidad/manual-sarlaft-icetex-v13.pdf',
+        ' https://portal.icetex.gov.co/Portal/docs/default-source/documentos-el-icetex/biblioteca/manuales-de-la-entidad/manual-sarlaft-icetex-v13.pdf',
     },
     {
-      referencia: 'SISTEMA NACIONAL ALA/CFT. (2.006). CIRCULARES',
+      referencia: 'SISTEMA NACIONAL ALA/CFT. (2006). CIRCULARES. ',
       link:
-        'https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/circulares',
+        ' https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/circulares',
     },
     {
-      referencia: 'SISTEMA NACIONAL ALA/CFT. (2.006).DECRETOS.',
+      referencia: 'SISTEMA NACIONAL ALA/CFT. (2006).DECRETOS. ',
       link:
-        'https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/decretos',
+        ' https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/decretos',
     },
     {
-      referencia: 'SISTEMA NACIONAL ALA/CFT. (2.013). LEYES.',
+      referencia: 'SISTEMA NACIONAL ALA/CFT. (2013). LEYES. ',
       link:
-        'https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/leyes',
+        ' https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/leyes',
     },
     {
-      referencia: 'SISTEMA NACIONAL ALA/CFT. (2.006). RESOLUCIONES.',
+      referencia: 'SISTEMA NACIONAL ALA/CFT. (2006). RESOLUCIONES. ',
       link:
-        'https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/decretos',
+        ' https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/decretos',
     },
     {
-      referencia: 'UIAF. (2019). Guía de Normatividad ALA/CFT.',
+      referencia: 'UIAF. (2019). Guía de Normatividad ALA/CFT. ',
       link:
-        'Https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/documentos_interes_ala_cft/guia_normatividad_ala_cft_29974',
+        ' Https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/documentos_interes_ala_cft/guia_normatividad_ala_cft_29974',
     },
     {
-      referencia: 'UIAF. (2021). Normatividad.',
+      referencia: 'UIAF. (2021). Normatividad. ',
       link:
-        'https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28',
+        ' https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28',
     },
   ],
   glosario: [
@@ -172,7 +172,7 @@ export default {
     {
       termino: 'FPADM',
       significado:
-        'SISTEMA DE AUTOCONTROL Y GESTIÓN DEL RIESGO INTEGRAL LA/FT/FPADM o SAGRILAFT, no es un cambio solo de nombre, ya que incorpora nuevas definiciones y categorías que permitirán abarcar una mayor cantidad de sectores económicos y así servir de una forma más eficaz en la prevención del riesgo.',
+        ' SISTEMA DE AUTOCONTROL Y GESTIÓN DEL RIESGO INTEGRAL LA/FT/FPADM o SAGRILAFT, no es un cambio solo de nombre, ya que incorpora nuevas definiciones y categorías que permitirán abarcar una mayor cantidad de sectores económicos y así servir de una forma más eficaz en la prevención del riesgo.',
     },
     {
       termino: 'Manual',
@@ -207,7 +207,7 @@ export default {
   complementario: [
     {
       texto:
-        'GRUPO ISA.  (2.012). Prevención del lavado de activos y financiación del terrorismo. (Video). YouTube.',
+        'GRUPO ISA.  (2012). Prevención del lavado de activos y financiación del terrorismo. (Video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=BxJfd8BYMts',
     },
@@ -218,7 +218,7 @@ export default {
     },
     {
       texto:
-        'INFOLAFT SARLAFT SAGRILAFT(2016). Manual SARLAFT: ¿cómo construir un buen documento?.',
+        'INFOLAFT SARLAFT SAGRILAFT(2016). Manual SARLAFT: ¿cómo construir un buen documento?',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sNQ3Ngh1vCQ',
     },
@@ -226,22 +226,39 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor Pedagógico',
-        centro:
-          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        nombre: 'Maria Camila García Santamaría',
+        cargo: 'Líder del equipo',
+        centro: 'Dirección General',
       },
     ],
     contenidoInstruccional: [
       {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
         nombre: 'Jhon Jairo Villamizar Mora',
         cargo: 'Experto temático',
-        centro: 'Centro de la Industria, la Empresa y los Servicios. CIES.',
+        centro:
+          'Centro de la Industria, la Empresa y los Servicios CIES - Regional Norte de Santander',
+      },
+      {
+        nombre: 'Claudia Milena Hernández Naranjo',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Carolina Coca Salazar',
-        cargo: 'Revisora Metodológica y Pedagógica',
-        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Revisión y corrección de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -249,18 +266,66 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
       {
-        nombre: 'Claudia Milena Hernández Naranjo',
-        cargo: 'Diseñadora Instruccional',
-        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología.',
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Sandra Patricia Hoyos Sepúlveda',
-        cargo: 'Revisión y corrección de estilo',
+        nombre: 'Luis Fernando Sarmiento',
+        cargo: 'Diseño web',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capital',
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Villamizar Lizcano',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Lizeth Karina Manchego Suárez',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Validación de diseño y contenio',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
     ],
     gestoresRepositorio: [

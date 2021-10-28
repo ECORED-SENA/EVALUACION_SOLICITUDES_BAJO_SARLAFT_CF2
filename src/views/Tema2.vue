@@ -22,13 +22,13 @@
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p En este sistema existen unas políticas establecidas que deben regir las diferentes entidades vigiladas como:
-            p.mt-3 FIDUCOLDEX - Fiduciaria Colombiana de Comercio Exterior S.A, la cual es una entidad que apoya el sector empresarial en el crecimiento de sus negocios y contribuyendo al negocio del país. Es así como FIDUCOLDEX adoptó las siguientes políticas para brindar un adecuado manejo del SARLAFT en las diferentes etapas y elementos de este sistema.
+            p.mt-3 FIDUCOLDEX - Fiduciaria Colombiana de Comercio Exterior S.A., la cual es una entidad que apoya el sector empresarial en el crecimiento de sus negocios y contribuyendo al negocio del país. Es así como FIDUCOLDEX adoptó las siguientes políticas para brindar un adecuado manejo del SARLAFT en las diferentes etapas y elementos de este sistema.
         .col-lg-4.mb-4.mb-lg-0
           figure
             img(src="@/assets/template/tema-2-3.png", alt="Logo de la normatividad") 
     p.mt-5 A continuación, algunas políticas vigentes:
     LineaTiempoD.color-secundario.mt-5
-      .row(numero="1" titulo="Políticas para la etapa de identificación")
+      .row.titulo-prin(numero="1" titulo="Políticas para la etapa de identificación")
         .col-4
           figure
             img(src="@/assets/template/tema-2-4.png", alt="Imagen descriptiva")
@@ -36,7 +36,7 @@
           p En esta etapa de identificación de riesgos se debe surtir y buscar factores que puedan afectar a la entidad, es decir, se debe buscar previamente el lanzamiento de cualquier producto o modificaciones que quieran ser realizadas, estar pendiente a las aperturas de nuevas operaciones o en los canales de distribución. Cabe aclarar que productos que sean desarrollados en la Fiduciaria no es necesario realizar la debida identificación al ingresar a nuevas jurisdicciones.
           p.mt-2 Cuando existan productos que involucre operaciones comprometiendo a fondo actividades relacionadas con el Lavado de Activos y Financiación del Terrorismo, este producto debe ser analizado inmediatamente por el ente de control.
 
-      .row(numero="2" titulo="Políticas para la etapa de monitoreo")
+      .row.titulo-prin(numero="2" titulo="Políticas para la etapa de monitoreo")
         .col-4
           figure
             img(src="@/assets/template/tema-2-5.png", alt="Imagen descriptiva")
@@ -58,7 +58,7 @@
             li 
               i.fas.fa-angle-right.acento-contenido
               | La fiduciaria se abstendrá de tener relación con clientes o contrapartes domiciliados en países no cooperantes o sancionados, según el FATF/GAFI.
-      .row(numero="3" titulo="Política para etapa de control")
+      .row.titulo-prin(numero="3" titulo="Política para etapa de control")
         .col-4
           figure
             img(src="@/assets/template/tema-2-6.png", alt="Imagen descriptiva")
@@ -68,7 +68,7 @@
             li 
               i.fas.fa-angle-right.acento-contenido
               | Se debe reportar cualquier hecho o situación inusual o sospechosa que haga suponer que puede estarse presentando un intento de lavado de activos o financiación del terrorismo a través de la Fiduciaria.
-      .row(numero="4" titulo="Políticas sobre consultas de Listas restrictivas")
+      .row.titulo-prin(numero="4" titulo="Políticas sobre consultas de Listas restrictivas")
         .col-4
           figure
             img(src="@/assets/template/tema-2-7.png", alt="Imagen descriptiva")
@@ -77,11 +77,11 @@
           ul.lista-ul.mt-3
             li 
               i.fas.fa-angle-right.acento-contenido
-              | Se debe efectuar las consultas y los cruces de información de la lista que facilita la ONU y la denominada lista OFAC así se determinara junto con las otras bases de datos la prevención del lavado de activos y financiación del terrorismo.
+              | Se debe efectuar las consultas y los cruces de información de la lista que facilita la ONU y la denominada lista OFAC así se determinará junto con las otras bases de datos la prevención del lavado de activos y financiación del terrorismo.
             li 
               i.fas.fa-angle-right.acento-contenido
               | La Fiduciaria debe incorporar los contratos que celebren mecanismos de prevención de Lavado de Activos y Financiación del Terrorismo.
-      .row(numero="5" titulo="Políticas de exoneración de clientes para los reportes de transacciones en efectivo ")
+      .row.titulo-prin(numero="5" titulo="Políticas de exoneración de clientes para los reportes de transacciones en efectivo ")
         .col-4
           figure
             img(src="@/assets/template/tema-2-8.png", alt="Imagen descriptiva")
@@ -94,7 +94,7 @@
             li 
               i.fas.fa-angle-right.acento-contenido
               | Solo un oficial de cumplimiento puede exonerar a un cliente de diligenciar el formato de identificación individual de transacciones en efectivo, conforme a lo que permite la regulación de la Superintendencia Financiera.
-      .row(numero="6" titulo="Políticas sobre desarrollo tecnológicos ")
+      .row.titulo-prin(numero="6" titulo="Políticas sobre desarrollo tecnológicos ")
         .col-4
           figure
             img(src="@/assets/template/tema-2-9.png", alt="Imagen descriptiva")
@@ -107,7 +107,7 @@
             li 
               i.fas.fa-angle-right.acento-contenido
               | Se aplicará la segmentación de mercado, el monitoreo de operaciones y la consolidación electrónica de las mismas.
-      .row(numero="7" titulo="Políticas sobre conservación de documentos")
+      .row.titulo-prin(numero="7" titulo="Políticas sobre conservación de documentos")
         .col-4
           figure
             img(src="@/assets/template/tema-2-10.png", alt="Imagen descriptiva")
@@ -117,29 +117,24 @@
             li 
               i.fas.fa-angle-right.acento-contenido
               | Los documentos y registros relacionados con el cumplimiento de las normas sobre prevención de LA/FT se debe conservar dentro del archivo del área de SARLAFT durante un año, luego del cual se conservarán en el archivo general durante 10 años, pasado este tiempo y si no se ha efectuado ningún requerimiento al respecto por autoridad competente, podrá ser microfilmado.
-      .row(numero="8" titulo="Políticas para la etapa de monitoreo ")
+      .row.titulo-prin(numero="8" titulo="Políticas sobre la modificación del manual ")
         .col-4
           figure
             img(src="@/assets/template/tema-2-11.png", alt="Imagen descriptiva")
         .col-8
-          p En esta etapa es importante la realización de las siguientes actividades: 
+          p El Manual debe ser actualizado de acuerdo con las necesidades de la Fiduciaria y las modificaciones deben ser aprobadas por la Junta Directiva de la entidad y hay que tener en cuenta:
           ul.lista-ul.mt-3
             li 
               i.fas.fa-angle-right.acento-contenido
-              | Mantener un monitoreo constante en todos los factores de riesgo encontrados apoyándose en las herramientas tecnológicas que permiten verificar los clientes en las listas restrictivas; además, debe detectar las operaciones que hayan sido realizadas dentro de los parámetros oficiales de cumplimiento en las transacciones usuales.
+              | El Manual SARLAFT al ser diseñado y propuesto a la Junta Directiva por el Oficial de Cumplimiento, será incorporado al Sistema de Gestión de Calidad de la Fiduciaria.
             li 
               i.fas.fa-angle-right.acento-contenido
-              | Establecer por parte del oficial encargado los controles más estrictos que adviertan el perfil del riesgo de LA/FT si supera los niveles de tolerancia establecidos por la Fiduciaria.
+              | Este manual debe ser actualizado de acuerdo con las necesidades de la Fiduciaria, y estas modificaciones deben ser avalados por la Junta Directiva, con la periodidad que cada entidad haya definido en su política.
             li 
               i.fas.fa-angle-right.acento-contenido
-              | Establecer los indicadores descriptivos y prospectivos que evidencian las potenciales fuentes de riesgos.
-            li 
-              i.fas.fa-angle-right.acento-contenido
-              | Asegurar que los riesgos residuales se encuentren en los niveles de aceptación que son establecidos por la entidad.
-            li 
-              i.fas.fa-angle-right.acento-contenido
-              | La fiduciaria se abstendrá de tener relación con clientes o contrapartes domiciliados en países no cooperantes o sancionados, según el FATF/GAFI.
-      .row(numero="9" titulo="Políticas de vinculación")
+              | Las normas que implemente la Superintendencia Financiera deben ser incorporadas al manual sin la aprobación de la Junta Directiva, ni el comité de presidencia de acuerdo con lo establecido por el Sistema de Gestión de Calidad.
+
+      .row.titulo-prin(numero="9" titulo="Políticas de vinculación")
         .col-4
           figure
             img(src="@/assets/template/tema-2-12.png", alt="Imagen descriptiva")

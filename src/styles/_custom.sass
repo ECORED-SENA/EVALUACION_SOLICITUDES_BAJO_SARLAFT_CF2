@@ -1,4 +1,11 @@
 // GENERAL
+
+// Para la linea de tiempo del punto 52
+.linea-tiempo-d__item--selected .tarjeta--gris
+  background-color: $color-secundario
+  
+a.me-5
+  color: #12263F
 .titulo-principal__numero
   background-color: $color-acento-contenido
 .titulo-principal__numero span
@@ -89,6 +96,10 @@ p
   z-index: 2
 .bloque-texto-b i
   color: $color-acento-botones
+
+
+  
+
 
 // Imagen infograf
 .img-infografica.color-primario .img-infografica__item__dot::before
@@ -302,6 +313,8 @@ p
   background-color: #FFF1DB !important
 .bg-verde
   background-color: #D3FDB8
+.bg-amarillo
+  background-color: #FFEAAA
 
 
 
@@ -1128,3 +1141,23 @@ th
   h4, p
     color: #12263F
     opacity: 1
+
+@media only screen and (max-width: 769px) 
+  .scroll-x-tabla
+    overflow-x: auto !important;
+  .scroll-x-tabla::-webkit-scrollbar
+    height: 5px;  
+  .scroll-x-tabla::-webkit-scrollbar-thumb 
+    background: #FFD947;
+  .banner-principal__row::after
+    display: none
+  .d-none-mov
+    display: none
+
+
+
+
+
+
+
+

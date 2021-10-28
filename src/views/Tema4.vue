@@ -13,7 +13,7 @@
     .row.mt-5
       .col-10
         p El sistema SARLAFT requiere del uso de diferentes formatos, estos dependen de la normativa nacional, de los procesos propios de cada entidad y del sistema de gestión que cada equipo especializado considere pertinente. Los formatos pueden ser de prevención, formato de vinculación o actualización, formato de exoneración, formato matriz, mapa de riesgos, etc.
-        p.mt-3 El siguiente formato se utiliza cuando se requiere modificar, aprobar o eliminar información del manual de SARLAFT, es importante aclarar, que los datos y su organización de cada formato pueden variar según el Sistema de Gestión de cada entidad.
+        p.mt-3 El siguiente formato se utiliza cuando se requiere modificar, aprobar o eliminar información del manual de SARLAFT, es importante aclarar, que los datos y la organización de cada formato pueden variar según el Sistema de Gestión de cada entidad.
       .col-2.px-4.align-self-center
         figure
           img(src="@/assets/template/tema-4-2.svg", alt="Texto que describa la imagen").floating
@@ -39,6 +39,9 @@
         .cajon.color-primario.mt-4
           .row.p-4            
             ul.lista-ul.ml-2.pt-3
+              li 
+                i.fas.fa-angle-right.acento-contenido
+                | Se tienen en cuenta datos adicionales que no son requeridos en la normativa.
               li 
                 i.fas.fa-angle-right.acento-contenido
                 | La inclusión de políticas incompletas.

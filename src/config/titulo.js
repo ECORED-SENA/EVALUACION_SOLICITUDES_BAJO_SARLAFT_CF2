@@ -1,1 +1,1 @@
-module.exports = 'Los Clientes y el SARLAFT'
+module.exports = 'Los clientes y el SARLAFT'
