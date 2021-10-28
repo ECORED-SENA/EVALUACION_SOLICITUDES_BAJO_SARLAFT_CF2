@@ -18,64 +18,59 @@
       .col-1.px-0
         figure
           img(src="@/assets/template/tema-1-3.svg", alt="Texto que describa la imagen").floating
-    .row.mt-5.px-4
-      .col-6.position-relative.px-0(@mouseover="mostrarIndicador = false")
-        .indicador--click(v-if="mostrarIndicador")
-        figure.px-2
-          img(src="@/assets/template/tema-1-2-1.png", alt="Texto que describa la imagen")
-        .row.mx-0
-          figure.px-2.image-cover
-            img(src="@/assets/template/tema-1-2-2.svg", alt="Texto que describa la imagen")
-          .col-12(style="margin-top: -65%").px-4
-            .row.text-center
-              .col-12
+    
+    .row.justify-content-center(data-aos="fade-down").mt-4
+          .col-lg-6
+            .row.px-2.pt-2.h-100
+              .col-12.m-0.nav-holder3.align-items-center.rounded-15.box-shadow.px-0
                 figure
-                  img(src="@/assets/template/tema-1-5.svg", alt="Imagen descriptiva").w-10.margin-0-auto
-            .h4.text-center.mt-4 Normatividad Jurídica
-            p.mt-3.ml-5 En estas se incluyen las siguientes:
-            ul.lista-ul.ml-5.pt-3
-              li 
-                i.fas.fa-angle-right.secundario
-                | Normatividad Ambiental
-              li 
-                i.fas.fa-angle-right.secundario
-                | Normatividad Educacional
-              li 
-                i.fas.fa-angle-right.secundario
-                | Normatividad Informática
-              li 
-                i.fas.fa-angle-right.secundario
-                | Normatividad Tributaria
-              li 
-                i.fas.fa-angle-right.secundario
-                | Normatividad Laboral
-      .col-6.position-relative.px-0
-        figure.px-2(@mouseover="mostrarIndicador = false")
-          .indicador--click(v-if="mostrarIndicador")
-          img(src="@/assets/template/tema-1-4-1.png", alt="Texto que describa la imagen")
-        .row.mx-0
-          figure.px-2.image-cover
-            img(src="@/assets/template/tema-1-4-2.svg", alt="Texto que describa la imagen")
-          .col-12(style="margin-top: -65%").px-4
-            .row.text-center
-              .col-12
+                  img(src="@/assets/template/tema-1-2-1.png", alt="Texto que describa la imagen")
+                .text.p-lg-5.p-4
+                  .row.px-1.pt-1
+                    figure
+                      img(src="@/assets/template/tema-1-5.svg", alt="Texto que describa la imagen").w-10.margin-0-auto
+                    .h4.small-text.text-center Normatividad Jurídica
+                    p.mt-5.ml-5.text-left En estas se incluyen las siguientes:
+                    ul.lista-ul.ml-5.pt-3
+                      li 
+                        i.fas.fa-angle-right.secundario
+                        | Normatividad Ambiental
+                      li 
+                        i.fas.fa-angle-right.secundario
+                        | Normatividad Educacional
+                      li 
+                        i.fas.fa-angle-right.secundario
+                        | Normatividad Informática
+                      li 
+                        i.fas.fa-angle-right.secundario
+                        | Normatividad Tributaria
+                      li 
+                        i.fas.fa-angle-right.secundario
+                        | Normatividad Laboral
+          .col-lg-6
+            .row.px-2.pt-2.h-100
+              .col-12.m-0.nav-holder3.align-items-center.rounded-15.box-shadow.px-0
                 figure
-                  img(src="@/assets/template/tema-1-6.svg", alt="Imagen descriptiva").w-10.margin-0-auto
-            .h4.text-center.mt-4 Normatividad No Jurídica
-            p.mt-3.ml-5 En estas se incluyen las siguientes:
-            ul.lista-ul.ml-5.pt-3
-              li 
-                i.fas.fa-angle-right.secundario
-                | Moral
-              li 
-                i.fas.fa-angle-right.secundario
-                | Religiosa
-              li 
-                i.fas.fa-angle-right.secundario
-                | Técnica
-              li 
-                i.fas.fa-angle-right.secundario
-                | Social
+                  img(src="@/assets/template/tema-1-4-1.png", alt="Texto que describa la imagen")
+                .text.p-lg-5.p-4
+                  .row.px-1.pt-1
+                    figure
+                      img(src="@/assets/template/tema-1-6.svg", alt="Texto que describa la imagen").w-10.margin-0-auto
+                    .h4.small-text.text-center Normatividad No Jurídica
+                    p.mt-5.ml-5.text-left En estas se incluyen las siguientes:
+                    ul.lista-ul.ml-5.pt-3
+                      li 
+                        i.fas.fa-angle-right.secundario
+                        | Moral
+                      li 
+                        i.fas.fa-angle-right.secundario
+                        | Religiosa
+                      li 
+                        i.fas.fa-angle-right.secundario
+                        | Técnica
+                      li 
+                        i.fas.fa-angle-right.secundario
+                        | Social
     separador.mt-3
 
     p Las normativas tienen como función:
@@ -92,7 +87,7 @@
                 p Las normas contra el lavado de activos y la financiación del terrorismo se han actualizado para todas las entidades de la Superintendencia Financiera estableciendo los lineamientos que las organizaciones deben establecer y así obtener un enfoque basado en riesgos.
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src="@/assets/template/tema-1-7.png", alt="Logo de la normatividad")
+                img(src="@/assets/template/tema-1-7.svg", alt="Logo de la normatividad")
     p.mt-5 El Sistema de Administración del Riesgo de eventos, de Lavado de Activos y Financiación del Terrorismo, está fundamentado en los contenidos normativos de carácter general y especial previstos en la constitución, la ley, decretos y actos administrativos emitidos por los entes de vigilancia y control. (COMPLIANCE - Sistema de Información, 2018)
     .row.mt-4
         .col-10.offset-1.mt-5
