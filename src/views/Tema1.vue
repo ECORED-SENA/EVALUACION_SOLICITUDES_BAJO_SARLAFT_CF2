@@ -25,7 +25,7 @@
               .col-12.m-0.nav-holder3.align-items-center.rounded-15.box-shadow.px-0
                 figure
                   img(src="@/assets/template/tema-1-2-1.png", alt="Texto que describa la imagen")
-                .text.p-lg-5.p-4
+                .text.p-lg-5.p-4.text-card
                   .row.px-1.pt-1
                     figure
                       img(src="@/assets/template/tema-1-5.svg", alt="Texto que describa la imagen").w-10.margin-0-auto
@@ -52,7 +52,7 @@
               .col-12.m-0.nav-holder3.align-items-center.rounded-15.box-shadow.px-0
                 figure
                   img(src="@/assets/template/tema-1-4-1.png", alt="Texto que describa la imagen")
-                .text.p-lg-5.p-4
+                .text.p-lg-5.p-4.text-card
                   .row.px-1.pt-1
                     figure
                       img(src="@/assets/template/tema-1-6.svg", alt="Texto que describa la imagen").w-10.margin-0-auto
@@ -71,11 +71,13 @@
                       li 
                         i.fas.fa-angle-right.secundario
                         | Social
-    separador.mt-3
 
-    p Las normativas tienen como función:
+    p.mt-5 Las normativas tienen como función:
     p.mt-2 Regular todas las actividades cotidianas de las personas como por ejemplo regular los regímenes matrimoniales, el derecho sucesorio, los delitos y sus penas, entre otros.
 
+    separador.mt-3
+
+    
     .titulo-segundo.mt-5
       #t_1_1.h2 1.1  Normatividad vigente - SARLAFT
     .row.mt-5
@@ -88,7 +90,7 @@
             .col-lg-4.mb-4.mb-lg-0
               figure
                 img(src="@/assets/template/tema-1-7.svg", alt="Logo de la normatividad")
-    p.mt-5 El Sistema de Administración del Riesgo de eventos, de Lavado de Activos y Financiación del Terrorismo, está fundamentado en los contenidos normativos de carácter general y especial previstos en la constitución, la ley, decretos y actos administrativos emitidos por los entes de vigilancia y control. (COMPLIANCE - Sistema de Información, 2018)
+    p.mt-5 El Sistema de Administración del Riesgo de eventos, de Lavado de Activos y Financiación del Terrorismo, está fundamentado en los contenidos normativos de carácter general y especial previstos en la constitución, la ley, decretos y actos administrativos emitidos por los entes de vigilancia y control. (COMPLIANCE - Sistema de Información, 2018).
     .row.mt-4
         .col-10.offset-1.mt-5
           .titulo-sexto.color-acento-contenido
@@ -199,7 +201,7 @@
     p.mt-5 En la actual versión de SARLAFT, se puede apreciar:
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mntqNcP21_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mt-5.rounded-20.bg-amarillo-claro.p-5.zoom-in
       .col-5
         p Datos que se deben obtener en la Actividad Económica:
@@ -266,7 +268,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0.align-self-center
-                h3.mb-0 Ver Ley 1762 de 2015:
+                h3.mb-0 Ver Ley 1762 de 2015
               .col-sm-auto
                 a.boton.color-acento-contenido(href="https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema/leyes/ley_1762_2015" target="_blank")
                   span.text-sistema Enlace

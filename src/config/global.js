@@ -181,7 +181,7 @@ export default {
     },
 
     {
-      termino: 'Periodicidad ',
+      termino: 'Periodicidad',
       significado:
         'Es un término aplicado para mencionar a una persona o elemento que se caracteriza por ser periódico, es decir, el elemento mencionado en la oración es frecuente (posee una repetitividad muy continua) esta palabra puede ser aplicada en cualquier ocasión.',
     },
@@ -195,7 +195,7 @@ export default {
     {
       termino: 'Procedimientos',
       significado:
-        'Es un conjunto de acciones que tienen que realizarse todas igualmente, para obtener los mismos resultados bajo las mismas circunstancias',
+        'Es un conjunto de acciones que tienen que realizarse todas igualmente, para obtener los mismos resultados bajo las mismas circunstancias.',
     },
 
     {
@@ -332,7 +332,7 @@ export default {
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

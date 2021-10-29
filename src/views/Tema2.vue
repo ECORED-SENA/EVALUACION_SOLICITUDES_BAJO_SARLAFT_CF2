@@ -129,7 +129,7 @@
               | El Manual SARLAFT al ser diseñado y propuesto a la Junta Directiva por el Oficial de Cumplimiento, será incorporado al Sistema de Gestión de Calidad de la Fiduciaria.
             li 
               i.fas.fa-angle-right.acento-contenido
-              | Este manual debe ser actualizado de acuerdo con las necesidades de la Fiduciaria, y estas modificaciones deben ser avalados por la Junta Directiva, con la periodidad que cada entidad haya definido en su política.
+              | Este manual debe ser actualizado de acuerdo con las necesidades de la Fiduciaria, y estas modificaciones deben ser avaladas por la Junta Directiva, con la periodidad que cada entidad haya definido en su política.
             li 
               i.fas.fa-angle-right.acento-contenido
               | Las normas que implemente la Superintendencia Financiera deben ser incorporadas al manual sin la aprobación de la Junta Directiva, ni el comité de presidencia de acuerdo con lo establecido por el Sistema de Gestión de Calidad.

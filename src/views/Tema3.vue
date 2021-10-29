@@ -8,7 +8,7 @@
       h1 Procedimientos 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Eet6yUWWju8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .titulo-segundo.mt-5
       #t_3_1.h2 3.1  Conocimiento del cliente: verificación de información
     .row.mt-5.rounded-20.bg-amarillo-claro.p-5.zoom-in
@@ -39,7 +39,7 @@
               figure.image-cover
                 img(src="@/assets/template/tema-3-3-1.svg", alt="Texto que describa la imagen")
           tr.text-small
-            td.p-4 La relacionada con la obtención de la información "que le permita a la entidad llevar a cabo un efectivo, eficiente y oportuno conocimiento de los clientes actuales y potenciales, el cual comporta el diseño y adopción del formulario de solicitud de vinculación y su diligenciamiento por el potencial cliente" .
+            td.p-4 La relacionada con la obtención de la información "que le permita a la entidad llevar a cabo un efectivo, eficiente y oportuno conocimiento de los clientes actuales y potenciales, el cual comporta el diseño y adopción del formulario de solicitud de vinculación y su diligenciamiento por el potencial cliente".
             td.p-4 La relacionada con la verificación "de la información contenida en el formulario y de los soportes de la misma, soportes que el potencial debe exhibir o entregar, si la entidad así lo determina".
     separador.mt-3
     .titulo-segundo.mt-5
@@ -51,7 +51,7 @@
       .col-11
         p La Superintendencia Financiera de Colombia busca que todas las entidades vigiladas implementen un manual del SARLAFT, con el fin de prevenir los riesgos que pueden causar, si llegan a ser utilizados para dar una apariencia de legalidad pero que son actos provenientes de actividades ilícitas o de actividades de índole terrorista, por esta razón en la siguiente gráfica se muestra la importancia de la implementación de este manual:
     .row.mt-5
-      .col-10.offset-1.mt-5
+      .col-10.offset-1.mt-2
         .titulo-sexto.color-acento-contenido
           h5.text-small Figura 1
           p.text-small Importancia del manual SARLAFT
@@ -127,10 +127,14 @@
         figure
           img(src="@/assets/template/tema-3-12.png", alt="Imagen descriptiva")
     .row.mt-5
-    .col-10.offset-1.mt-5
-      .titulo-sexto.color-acento-contenido
-        h5.text-small Figura 2
-        p.text-small.italic Etapas construcción manual
+      .col-12
+        p Para construir el manual de SARLAFT es necesario desarrollar un plan de trabajo que consta de 10 etapas especificadas en el siguiente esquema:
+    
+    .row.mt-2
+      .col-10.offset-1.mt-5
+        .titulo-sexto.color-acento-contenido
+          h5.text-small Figura 2
+          p.text-small.italic Etapas construcción manual
 
     .row.mt-5.text-center
       .col-sm-6.col-lg-2.tarjeta-flip-tema-2.p-1.text-center
