@@ -27,12 +27,12 @@
                   img(src="@/assets/template/tema-1-2-1.png", alt="Texto que describa la imagen")
                 .text.p-lg-5.p-4.text-card
                   .row.px-1.pt-1
-                    figure
+                    figure.d-none-mov
                       img(src="@/assets/template/tema-1-5.svg", alt="Texto que describa la imagen").w-10.margin-0-auto
-                    .h4.small-text.text-center Normatividad Jurídica
-                    p.mt-5.ml-5.text-left En estas se incluyen las siguientes:
-                    ul.lista-ul.ml-5.pt-3
-                      li 
+                    .h4.small-text.text-center.mt-5-cus Normatividad Jurídica
+                    p.mt-5-cus-text.ml-5.text-left En estas se incluyen las siguientes:
+                    ul.lista-ul.ml-5.pt-3-cus
+                      li
                         i.fas.fa-angle-right.secundario
                         | Normatividad Ambiental
                       li 
@@ -54,11 +54,12 @@
                   img(src="@/assets/template/tema-1-4-1.png", alt="Texto que describa la imagen")
                 .text.p-lg-5.p-4.text-card
                   .row.px-1.pt-1
-                    figure
+
+                    figure.d-none-mov
                       img(src="@/assets/template/tema-1-6.svg", alt="Texto que describa la imagen").w-10.margin-0-auto
                     .h4.small-text.text-center Normatividad No Jurídica
-                    p.mt-5.ml-5.text-left En estas se incluyen las siguientes:
-                    ul.lista-ul.ml-5.pt-3
+                    p.mt-5-cus-text.ml-5.text-left En estas se incluyen las siguientes:
+                    ul.lista-ul.ml-5.pt-3-cus
                       li 
                         i.fas.fa-angle-right.secundario
                         | Moral
