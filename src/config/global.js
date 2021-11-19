@@ -201,7 +201,7 @@ export default {
     {
       termino: 'ROS',
       significado:
-        'El ROS es el Reporte de Operación Sospechosa que todo oficial de cumplimiento o funcionario responsable de las personas naturales o jurídicas señaladas en el artículo 3° de la Ley N° 19.913, debe enviar a la UAF cuando, en el ejercicio de su actividad o de sus funciones, detecte una operación sospechosa de lavado de activos o financiamiento del terrorismo, que corresponda ser informada a este servicio.',
+        'El ROS es el Reporte de Operación Sospechosa que todo oficial de cumplimiento o funcionario responsable de las personas naturales o jurídicas señaladas en el artículo 3° de la Ley N° 19.913, debe enviar a la UIAF cuando, en el ejercicio de su actividad o de sus funciones, detecte una operación sospechosa de lavado de activos o financiamiento del terrorismo, que corresponda ser informada a este servicio.',
     },
   ],
   complementario: [
