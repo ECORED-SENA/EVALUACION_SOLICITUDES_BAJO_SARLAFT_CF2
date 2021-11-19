@@ -87,7 +87,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Normas de Seguridad y Salud en el Trabajo SST',
+        titulo: 'Normas de Seguridad y Salud en el Trabajo (SST)',
         desarrolloContenidos: true,
         subMenu: [],
       },
@@ -150,12 +150,12 @@ export default {
     {
       referencia: 'SISTEMA NACIONAL ALA/CFT. (2006). RESOLUCIONES. ',
       link:
-        ' https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/decretos',
+        ' https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/resoluciones',
     },
     {
       referencia: 'UIAF. (2019). Guía de Normatividad ALA/CFT. ',
       link:
-        ' Https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/documentos_interes_ala_cft/guia_normatividad_ala_cft_29974',
+        ' Https://www.uiaf.gov.co/sistema_nacional_ala_cft/normatividad_sistema_documentos_28/documentos_interes_ala_cft/guia_normatividad_ala_cft',
     },
     {
       referencia: 'UIAF. (2021). Normatividad. ',
@@ -330,7 +330,7 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Milady Tatiana Villamil Castellanos',
+        nombre: 'Daniel Felipe Varon Molina',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },

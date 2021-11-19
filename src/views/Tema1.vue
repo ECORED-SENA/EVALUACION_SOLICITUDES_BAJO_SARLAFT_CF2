@@ -360,7 +360,7 @@
       .col-10.offset-1
         .tabla-a.color-acento-contenido.mb-5 
           table
-            caption.mt-3 Nota. https://www.uiaf.gov.co/sala_prensa/publicaciones/guia_normatividad_ala_cf
+            caption.mt-3 Nota. https://www.uiaf.gov.co/sala_prensa/publicaciones/guia_normatividad_ala_cft
             thead.bg-secundario.text-center
               tr
                 th SECTOR

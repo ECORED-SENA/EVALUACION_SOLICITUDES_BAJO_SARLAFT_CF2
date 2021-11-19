@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 5
-      h1 Normas de Seguridad y Salud en el Trabajo SST
+      h1 Normas de Seguridad y Salud en el Trabajo (SST)
     .row.mt-5
       .col-3.align-self-center
         figure
